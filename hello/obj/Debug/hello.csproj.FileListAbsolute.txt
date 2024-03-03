@@ -1,0 +1,8 @@
+D:\23.11.5723\01\hello\bin\Debug\hello.exe.config
+D:\23.11.5723\01\hello\bin\Debug\hello.exe
+D:\23.11.5723\01\hello\bin\Debug\hello.pdb
+D:\23.11.5723\01\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+D:\23.11.5723\01\hello\obj\Debug\hello.csproj.SuggestedBindingRedirects.cache
+D:\23.11.5723\01\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+D:\23.11.5723\01\hello\obj\Debug\hello.exe
+D:\23.11.5723\01\hello\obj\Debug\hello.pdb
